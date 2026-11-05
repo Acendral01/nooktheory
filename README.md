@@ -1,3 +1,11 @@
+# NookTheory — ON HOLD
+
+All NookTheory activity is intentionally paused. The public static pages have been replaced with a hold notice. Original site files are preserved under `archive/site_on_hold/`.
+
+Do not restore publishing or automation unless the project owner explicitly asks to resume NookTheory.
+
+---
+
 # NookTheory website
 
 A static NookTheory website prepared for GitHub Pages.
